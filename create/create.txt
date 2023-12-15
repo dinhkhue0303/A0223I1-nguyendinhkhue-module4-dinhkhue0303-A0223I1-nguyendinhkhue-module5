@@ -1,0 +1,11 @@
+npm i yup
+npm i formik
+npm react-router-dom
+npm i react-toastify
+npm install axios
+npm i bootstrap
+
+// tạo DB
+json-server --watch 'name'.json --port 'url'
+import "bootstrap/dist/css/bootstrap.css";
+import 'react-toastify/dist/ReactToastify.css';
